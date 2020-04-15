@@ -1,0 +1,14 @@
+-Xlint:ignore
+-encoding
+UTF-8
+-source
+1.7
+-target
+1.7
+-classpath
+C:\Users\Shamitha Chandrasena\.m2\repository\org\aspectj\aspectjrt\1.9.4\aspectjrt-1.9.4.jar;C:\Users\Shamitha Chandrasena\Documents\GitHub\sample-aop-aspectj\target\classes
+-d
+C:\Users\Shamitha Chandrasena\Documents\GitHub\sample-aop-aspectj\target\classes
+C:\Users\Shamitha Chandrasena\Documents\GitHub\sample-aop-aspectj\src\main\java\MySimpleLogger.java
+C:\Users\Shamitha Chandrasena\Documents\GitHub\sample-aop-aspectj\src\main\java\SampleService.java
+C:\Users\Shamitha Chandrasena\Documents\GitHub\sample-aop-aspectj\src\main\java\Tester.java
