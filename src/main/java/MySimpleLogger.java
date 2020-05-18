@@ -33,12 +33,4 @@ public class MySimpleLogger {
         return retVal;
     }
 
-//    @Before("execution(* SampleService.doService(..))")
-//    public void before(JoinPoint joinPoint){
-//        //Advice
-//        System.out.println(" Check for user access ");
-//        System.out.println(" Allowed execution for {}"+joinPoint);
-//    }
-
-
 }
